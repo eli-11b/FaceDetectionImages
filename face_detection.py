@@ -3,8 +3,8 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 
-# Load the cascade
-face_cascade = cv2.CascadeClassifier('/Users/Eli/Documents/Dev/Python/haarcascade_frontalface_default.xml')
+# Load the cascade from a local file. 
+face_cascade = cv2.CascadeClassifier('/localpath/haarcascade_frontalface_default.xml')
 
 #app title
 st.title("Face detection")
