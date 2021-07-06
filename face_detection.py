@@ -27,7 +27,6 @@ with st.form(key='my_form'):
             
 #file upload
 if submit_button:
-    
     scale_factor = float(scale_factor)
     min_neighbors = int(min_neighbors)
     # Convert into grayscale
