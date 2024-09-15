@@ -1,7 +1,11 @@
 # FaceDetectionImages
 Web app in streamlit that detects faces in images. 
-<img src="images/Intro.png">
-<img src="images/results.png">
+
+<img src="https://github.com/user-attachments/assets/c93ed387-536d-4a6b-aae9-f7f378b7793d" height="150">
+
+
+<img src="images/Intro.png" height="150">
+<img src="images/results.png" height="150">
 
 ## Instructions
 
