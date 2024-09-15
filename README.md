@@ -9,7 +9,7 @@ Web app in streamlit that detects faces in images.
 
 ## Instructions
 
-1. Download
+1. Clone
 2. Navigate to the location of the .py file
 3. Type:
 ```
