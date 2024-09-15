@@ -1,5 +1,5 @@
 # FaceDetectionImages
-Web app in streamlit that detects faces in images. 
+Web app in streamlit that detects faces in images. Using Haar Cascades. Haar-like features are digital image features used in object recognition. They owe their name to their intuitive similarity with Haar wavelets and were used in the first real-time face detector. 
 
 <img src="https://github.com/user-attachments/assets/c93ed387-536d-4a6b-aae9-f7f378b7793d" height="150">
 
